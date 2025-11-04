@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Bad Bunny anuncia gira mundial para 2026",
+    "content": "El 'Conejo Malo' confirmó las primeras fechas de su 'World Tour' que comenzará en América del Norte.",
+    "date": "2025-11-01",
+    "image": "https://example.com/news/tour_bb.jpg",
+    "tag_inicial": "<span class='news-tag new'>¡Última Hora!</span>"
+  },
+  {
+    "title": "Peso Pluma en colaboración sorpresa con C. Tangana",
+    "content": "El artista mexicano ha revelado una inusual colaboración con el cantante español, fusionando géneros.",
+    "date": "2025-10-25",
+    "image": "https://example.com/news/pp_ct.jpg",
+    "tag_inicial": "<span class='news-tag collab'>Colaboración</span>"
+  },
+  {
+    "title": "Karol G lanza nuevo álbum 'Universo Rosa'",
+    "content": "La cantante colombiana sorprendió a sus fans con un álbum lleno de colaboraciones femeninas y sonidos innovadores.",
+    "date": "2025-10-20",
+    "image": "https://example.com/news/karolg_album.jpg",
+    "tag_inicial": "<span class='news-tag release'>Nuevo Álbum</span>"
+  },
+  {
+    "title": "Bizarrap alcanza los 20 mil millones de reproducciones en YouTube",
+    "content": "El productor argentino sigue rompiendo récords con sus BZRP Music Sessions.",
+    "date": "2025-09-30",
+    "image": "https://example.com/news/bizarrap_record.jpg",
+    "tag_inicial": "<span class='news-tag milestone'>Récord</span>"
+  },
+  {
+    "title": "Feid y Rauw Alejandro anuncian gira conjunta por Latinoamérica",
+    "content": "Dos de los artistas más importantes del reggaetón unirán fuerzas para una gira que recorrerá 10 países.",
+    "date": "2025-10-10",
+    "image": "https://example.com/news/feid_rauw_tour.jpg",
+    "tag_inicial": "<span class='news-tag tour'>Gira</span>"
+  },
+  {
+    "title": "Duki estrena documental sobre su carrera en streaming",
+    "content": "El trapero argentino lanzó un documental que repasa su trayectoria y el auge del movimiento urbano en Latinoamérica.",
+    "date": "2025-09-18",
+    "image": "https://example.com/news/duki_doc.jpg",
+    "tag_inicial": "<span class='news-tag docu'>Documental</span>"
+  },
+  {
+    "title": "Junior H lidera las listas con su nuevo sencillo 'Luna Llena'",
+    "content": "El cantante mexicano de corridos tumbados se mantiene en el número uno por tercera semana consecutiva.",
+    "date": "2025-11-03",
+    "image": "https://example.com/news/juniorh_luna.jpg",
+    "tag_inicial": "<span class='news-tag chart'>Top Global</span>"
+  }
+]
