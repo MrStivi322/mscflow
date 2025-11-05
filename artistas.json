@@ -104,5 +104,19 @@
     "profile_bg_image": "https://example.com/images/juniorh_fondo.jpg",
     "instagram_url": "https://www.instagram.com/juniorh",
     "spotify_url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+  },
+  
+  {
+    "id": 9,
+    "name": "Gera MX",
+    "genre": "Rap",
+    "location": "San Luis Potosi",
+    "pais_filtro": "mexico",
+    "es_top": 0,
+    "bio": "y puro cachorro ma",
+    "image": "https://media.gettyimages.com/id/1411296955/es/foto/mexico-city-mexico-rapper-gera-mx-attends-a-press-conference-to-present-his-new-show-at-pepsi.jpg?s=612x612&w=0&k=20&c=hQnroq-kmWIob70Uf98vmQRBLc2tdbuHBs64XayOJMc=",
+    "profile_bg_image": "https://media.gettyimages.com/id/1428953540/es/foto/monterrey-mexico-mexican-rapper-gera-mx-performing-during-a-live-concert-at-pabell%C3%B3n-m-on.jpg?s=612x612&w=0&k=20&c=DhhzWPqLVOHk-J9MdpVsJPPAHrp86NEeH9QsdqXd3ZU=",
+    "instagram_url": "https://www.instagram.com/juniorh",
+    "spotify_url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
   }
 ]
