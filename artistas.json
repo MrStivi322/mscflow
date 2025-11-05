@@ -113,8 +113,8 @@
     "pais_filtro": "mexico",
     "es_top": 1,
     "bio": "Es el cachorro triple cuatro mami",
-    "image": "",
-    "profile_bg_image": "",
+    "image": "https://example.com/images/juniorh_perfil.jpg",
+    "profile_bg_image": "https://example.com/images/juniorh_fondo.jpg",
     "instagram_url": "",
     "youtube_url": "",
     "spotify_url": ""
