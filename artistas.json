@@ -104,5 +104,19 @@
     "profile_bg_image": "https://example.com/images/juniorh_fondo.jpg",
     "instagram_url": "https://www.instagram.com/juniorh",
     "spotify_url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+  },
+  {
+    "id": 9,
+    "name": "",
+    "genre": "",
+    "location": "",
+    "pais_filtro": "",
+    "es_top": 0,
+    "bio": "",
+    "image": "",
+    "profile_bg_image": "",
+    "instagram_url": "",
+    "youtube_url": "",
+    "spotify_url": ""
   }
 ]
